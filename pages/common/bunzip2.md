@@ -12,4 +12,8 @@
 
 - Decompress a file and keep the original .bz2 file:
 
-`bunzip2 -c test.txt.bz2 > test.txt OR $ bunzip2 -k test.txt.bz2`
+`bunzip2 -c test.txt.bz2 > test.txt`
+
+- OR
+
+`bunzip2 -k test.txt.bz2`
